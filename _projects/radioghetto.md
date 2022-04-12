@@ -18,4 +18,4 @@ importance: 2
     Radio Ghetto activists hoist radio antenna at start of 2016 broadcast season.
 </div>
 
-You can learn more about the project by visiting its [website](https://radioghettovocilibere.wordpress.com/). You can listen to part of its archive on [Mixcloud](https://www.mixcloud.com/radioghetto/). If you are lucky enough, you will be able to go to the theater show created by the Radio Ghetto collective using the audio and testimonies of radio ghetto activists.
+You can learn more about the project by visiting its [website](https://radioghettovocilibere.wordpress.com/). You can listen to part of its archive on [Mixcloud](https://www.mixcloud.com/radioghetto/). If you are lucky enough, you will be able to go to the [theater show](https://www.cranpi.com/radio-ghetto-voci-libere/) based on the radio audio recordings and radio ghetto activists experience.
