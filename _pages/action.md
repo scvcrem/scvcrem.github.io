@@ -4,6 +4,7 @@ title: action
 permalink: /action/
 description: Projects aimed at having concrete impact on socio-political marginalization. 
 nav: true
+<<<<<<< HEAD
 nav_order: 2
 horizontal: false
 ---
