@@ -8,7 +8,7 @@ nav: false
 
 # Book
 
-- [*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/), collectively authored by N23, 2020. Roma: Edizioni Alegre.  
+- [Perchè Non Sono Nata Coniglio](https://www.fondfranceschi.it/libro-lydia-coniglio/),N23 (Collective Author), 2020. Roma: Edizioni Alegre.  
 
 # Online Articles
 

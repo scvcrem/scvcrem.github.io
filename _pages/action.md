@@ -5,7 +5,7 @@ permalink: /action/
 description: Projects aimed at having concrete impact on socio-political marginalization. 
 nav: true
 order: 2
-horizontal: false
+horizontal: true
 ---
 
 <!-- pages/projects.md -->
