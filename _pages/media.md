@@ -4,7 +4,7 @@ permalink: /media/
 title: media
 description: Audio and video pieces I have realized to disseminate my research.
 nav: true
-order: 3
+order: 2
 ---
 
 ### audio
