@@ -45,7 +45,7 @@
               {%- endif %}
 
               <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
+              {%- assign sorted_pages = site.pages | sort: "order" -%}
               {%- for p in sorted_pages -%}
               {%- if p.nav and p.autogen == nil -%}
               {%- if p.dropdown %}
@@ -77,7 +77,12 @@
               {%- endif -%}
               {% endfor -%}
               {%- if site.enable_darkmode %}
-
+              <!-- Link to CV -->
+              <li class="nav-item">
+              <a class="nav-link" href="{{'/assets/pdf/cv_web.pdf' | relative_url }}" target="_blank">
+                cv
+              </a>
+              </li>
               <!-- Toogle theme mode -->
               <div class = "toggle-container">
                 <a id = "light-toggle">

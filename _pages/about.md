@@ -2,23 +2,27 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Social Scientist. <a href='https://sps.unibocconi.eu/'>Bocconi University</a>.
 
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  address: 
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+news: false # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
+social: false  # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a social scientist using ethnography and statistics to study the origins, workings, and consequences of socio-political marginalization. I work as a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://cordis.europa.eu/project/id/864687). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+**Research.** In my book project, I investigate how immigrant farmworkers in Italy have managed to create a parallel shantytown society that allow them to survive independently. The book and related articles examine cooperation and self-government at the fringes of state rule, residential choice under extreme poverty, and labor informality and exploitation. Currently, I am expanding my work on these topics to Europe, West Africa, and Brazil and starting new research to address the role of politics. In this second research stream, I investigate how macro-societal changes such as economic crises, the gender revolution, climate change, and civil wars shape the demand for policies that harm marginalized groups in Europe.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+**Academic CV.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) and I have spent visiting periods at the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. My research has won funding from the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict) and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), of whose scientific board I am now a member. [[Dowload full CV.]](/cv)
+
+**Public Social Science.** Besides publishing in [academic outlets](/al-folio/publications/), I have collaborated with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/) to design [social projects](al-folio/action/) and communicate my research to a broader audience than academics through [articles](/public_writing) and other [media](/media). I have also engaged in [media activism](/action) with [Radio Ghetto Voci Libere](https://radioghettovocilibere.wordpress.com/).
+
+**Personal.** In my free time, I am a passionate student of [Capoeira Angola](https://www.capoeiralaspezia.com/) and loves to collect, listen to, and study music originating from the African diaspora.
+
+**Contacts.** You can stay updated on my research activity by following me on [Twitter](https://twitter.com/s_cremaschi). To get in touch, you can send me an email at [simone [dot] cremaschi [at] unibocconi [dot] it ](simone.cremaschi@unibocconi.it).
+
