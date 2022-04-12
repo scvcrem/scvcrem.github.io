@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a social scientist using ethnography and statistics to study the origins, workings, and consequences of socio-political marginalization. My current position is Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://cordis.europa.eu/project/id/864687). 
+I am a social scientist using ethnography and statistics to study the origins, workings, and consequences of socio-political marginalization. My current academic position is Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://cordis.europa.eu/project/id/864687). 
 
 **research.** In my book project, I investigate how immigrant farmworkers in Italy have managed to create a parallel shantytown society that allow them to survive independently. The book and related articles examine cooperation and self-government at the fringes of state rule, residential choice under extreme poverty, and labor informality and exploitation. Currently, I am expanding my work on these topics to Europe, West Africa, and Brazil and starting new research to address the role of politics. In this second research stream, I investigate how macro-societal changes such as economic crises, the gender revolution, climate change, and civil wars shape the demand for policies that harm marginalized groups in Europe.
 
