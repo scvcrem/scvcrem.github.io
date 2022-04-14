@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Prendere la Parola, con la Ricerca Sociale
+title: speaking up, with social research
 description: A high school teaching program aimed empowering students through social research.
 img: /assets/img/PP_pic1.jpeg
 importance: 1
 category: work
 ---
 
-*Prendere la Parola, con la Ricerca Sociale* is a high a school teaching program that I designed with [Jacopo Lareno](https://www.codiciricerche.it/it/people/jacopo-lareno-faccini/) and  [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). The program aims at empowering high school students by teaching them the logic of social research. We believe that learning the logic of social research can provide students from disadvantaged backgrounds with powerful tools to participate in their communities' political life. 
+*Prendere la Parola, con la Ricerca Sociale* [Speaking Up, with Social Research] is a high a school teaching program that I designed with [Jacopo Lareno](https://www.codiciricerche.it/it/people/jacopo-lareno-faccini/) and  [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). The program aims at empowering high school students by teaching them the logic of social research. We believe that learning the logic of social research can provide students from disadvantaged backgrounds with powerful tools to participate in their communities' political life. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

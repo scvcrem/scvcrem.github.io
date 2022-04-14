@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Radio Ghetto Voci Libere
+title: radio ghetto voci libere
 description: A media activism project in immigrant shantytowns in Italy.
 img: assets/img/RG_pic1.jpg
 importance: 2
