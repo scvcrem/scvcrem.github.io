@@ -2,7 +2,7 @@
 layout: page
 permalink: /public_writing/
 title: public writing
-description: Written pieces oriented at non-academic audience [in Italian].
+description: Written pieces oriented at non-academic audience.
 nav: false
 ---
 
