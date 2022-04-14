@@ -2,7 +2,7 @@
 layout: page
 title: action
 permalink: /action/
-description: Projects aimed at having concrete impact on socio-political marginalization. 
+description: Social projects and activism connected to my research. 
 nav: true
 order: 3
 horizontal: false
