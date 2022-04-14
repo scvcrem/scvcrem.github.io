@@ -12,10 +12,9 @@ nav: false
 
 <!-- Book Project -->
 <h3  class="pubyear">immigrant marginalization, poverty, and informality</h3>
-{% bibliography -f book_project %}
-
+<!-- {% bibliography -f book_project %} -->
 <!-- Papers marginalization -->
-<h3  class="pubyear"></h3>
+<!--<h3  class="pubyear"></h3> -->
 {% bibliography -f papers_marginalization %}
 
 <!-- Papers exclusionary Politics --> 
