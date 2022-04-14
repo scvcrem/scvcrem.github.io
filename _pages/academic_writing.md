@@ -2,7 +2,7 @@
 layout: page
 permalink: /academic_writing/
 title: academic writing
-description: Published and work-in-progress academic pieces.
+description: Published academic work and work-in-progress.
 years: 
 nav: false
 ---

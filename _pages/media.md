@@ -2,7 +2,7 @@
 layout: page
 permalink: /media/
 title: media
-description: Audio and video pieces I have realized to disseminate my research.
+description: Audios and videos I have realized to disseminate my research.
 nav: true
 order: 2
 ---
