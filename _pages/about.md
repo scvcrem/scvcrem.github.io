@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Social Scientist at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>.
+subtitle: Political Sociologist at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>.
 
 profile:
   align: right
@@ -15,15 +15,18 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a social scientist using ethnography and statistics to study the origins, workings, and consequences of socio-political marginalization. My current academic position is Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
+I am a political sociologist studying the origins, workings, and consequences of social and political marginalization. I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
 
-**research.** In my book project, I investigate how immigrant farmworkers in Italy have managed to create a parallel shantytown society that allows them to survive independently. The book and related articles examine cooperation and self-government at the fringes of state rule, residential choice under extreme poverty, and labor informality and exploitation. Currently, I am expanding my work on these topics to Europe, West Africa, and Brazil and starting new research on the politics of marginalization. In this second research stream, I investigate how macro-societal changes such as economic crises, the gender revolution, climate change, and civil wars shape the demand for or prevent the adoption of policies that harm marginalized groups in Europe.
+**research.** My research currently focuses on the following three broad lines of enquiry:
 
-**vitae.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I have spent visiting periods at the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. My research has won funding from the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), of whose scientific board I am now a member. You can read more in my [CV](/cv).
+- ***immigrant marginality:*** how immigrants create parallel institutional infrastructures to survive poverty and marginalization, and how institutional parallelism shapes their relationships with dominant groups
 
-**public social science.** Besides publishing in [academic outlets](/al-folio/publications/), I have collaborated with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/) to design [social projects](al-folio/action/) and communicate my research to a broader audience than academics through [articles](/public_writing) and other [media](/media). I have also engaged in [media activism](/action) with [Radio Ghetto Voci Libere](https://radioghettovocilibere.wordpress.com/).
+- ***exclusionary politics:*** how macro-societal changes such as economic crises, the gender revolution, and climate change shape the demand for policies that harm marginalized groups in Europe
 
-**personal.** In my free time, I am a passionate student of [Capoeira Angola](https://www.capoeiralaspezia.com/) and love to collect, listen to, and study music originating from the African diaspora.
+- ***collective memory:*** how collective memories of past events, such as wartime resistance, are transmitted and mobilized to inform current political dynamics and intergroup relationships
+
+My research combines multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
+
+**vitae.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. My research has won funding from the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). During my PhD, I have spent visiting periods at the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. From January to June 2024, I will be a visiting fellow at [Columbia University](https://sociology.columbia.edu/).
 
 **contacts.** You can stay updated on my research activity by following me on [Twitter](https://twitter.com/s_cremaschi). To get in touch, you can send me an email at [simone [dot] cremaschi [at] unibocconi [dot] it](simone.cremaschi@unibocconi.it).
-
