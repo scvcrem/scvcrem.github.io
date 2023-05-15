@@ -3,7 +3,7 @@ layout: page
 title: radio ghetto voci libere
 description: A media activism project in immigrant shantytowns in Italy.
 img: assets/img/RG_pic1.jpg
-importance: 2
+importance: 3
 ---
 
 *Radio Ghetto Voci Libere* is a participatory radio project that gives voice to the immigrant communities living in the shantytowns around Foggia. Since 2012 to 2018, the radio has broadcasted on FM and online for the duration of the tomato harvest season, giving voice to exploited immigrant workers and providing a tool for debate and exchange in shantytown communities. Broadcasting has been possible thanks to the commitment and support of farmworkers and shantytown dwellers who decided to animate the radio and to the activists who, like me, have organized and taken part in this initiative every summer. In 2018, the radio has received a special mention for the [annual award](http://www.antropologiaapplicata.com/portfolio/radio-ghetto/) assigned by the Italian Association of Applied Anthopology.
