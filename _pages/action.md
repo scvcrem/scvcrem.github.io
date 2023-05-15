@@ -2,7 +2,7 @@
 layout: page
 title: action
 permalink: /action/
-description: collective writing, social projects, and activism connected to my research. 
+description: too few collective writing, social, and activism projects connected to my research. 
 nav: true
 order: 5
 horizontal: false
