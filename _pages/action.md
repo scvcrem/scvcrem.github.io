@@ -2,9 +2,9 @@
 layout: page
 title: action
 permalink: /action/
-description: Social projects and activism connected to my research. 
+description: collective writing, social projects, and activism connected to my research. 
 nav: true
-order: 3
+order: 5
 horizontal: false
 ---
 
