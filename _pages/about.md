@@ -15,15 +15,15 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a political sociologist studying the origins, workings, and consequences of social and political marginalization. I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
+I am a political sociologist studying the origins, workings, and consequences of social and political marginalization. I work as a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
 
-**research.** My research currently focuses on the following three broad lines of enquiry:
+**research.** My ongoing research focuses on the following three lines of enquiry:
 
-- ***immigrant marginality:*** how immigrants create parallel institutional infrastructures to survive poverty and marginalization, and how institutional parallelism shapes their relationships with dominant groups
+*ethnic marginality.* How immigrants and minority groups create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society
 
-- ***exclusionary politics:*** how macro-societal changes such as economic crises, the gender revolution, and climate change shape the demand for policies that harm marginalized groups in Europe
+*exclusionary politics.* How macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm marginalized groups (e.g., immigrants, women, and LGBTQ+) in Europe, and how local variation in state capacity and public service provision shapes this relationship
 
-- ***collective memory:*** how collective memories of past events, such as wartime resistance, are transmitted and mobilized to inform current political dynamics and intergroup relationships
+*collective memory.* How collective memories of historical events, such as wartime resistance against Nazi-Fascism, are transmitted and mobilized to inform current political dynamics and intergroup relationships
 
 My research combines multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
 
