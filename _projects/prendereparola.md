@@ -1,7 +1,7 @@
 ---
 layout: page
 title: speaking up, with social research
-description: A high school teaching program aimed empowering students through social research.
+description: a high school teaching program aimed empowering students through social research.
 img: /assets/img/PP_pic1.jpeg
 importance: 1
 category: work
