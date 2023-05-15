@@ -8,7 +8,7 @@ order: 2
 ---
 
 <!-- _pages/research.md -->
-<div class="research">
+<div class="publications">
 
 <h2  class="pubyear">article projects</h2>
 {% bibliography -f article_projects %}
