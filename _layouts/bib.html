@@ -2,7 +2,7 @@
 ---
 <!-- _layouts/bib.html -->
       <div class="row">
-        <div class="col-sm-2 abbr">
+   <!--     <div class="col-sm-2 abbr">
         {%- if entry.abbr -%}
           {%- if site.data.venues[entry.abbr] -%}
           <abbr class="badge"><a href="{{site.data.venues[entry.abbr].url}}">{{entry.abbr}}</a></abbr>
@@ -10,10 +10,10 @@
           <abbr class="badge">{{entry.abbr}}</abbr>
           {%- endif -%}
         {%- endif -%}
-        </div>
+        </div> -->
 
-        <!-- Entry bib key -->
-        <div id="{{entry.key}}" class="col-sm-8">
+        <!-- Entry bib key (replaced col-sm-8 with 9 to enlarge column) -->
+        <div id="{{entry.key}}" class="col-sm-9">
         {% if entry.type == "thesis" -%}
           {{reference}}
         {%- else %}
