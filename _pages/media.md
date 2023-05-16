@@ -2,12 +2,12 @@
 layout: page
 permalink: /media/
 title: media
-description:  articles, podcasts, and videos aimed at nonacademic audiences
+description: online writings, podcasts, and videos aimed at nonacademic audiences
 nav: true
 order: 4
 ---
 
-### online articles
+### articles
 
 [Public Service Deprivation and the Rise of the Far Right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, *VoxEU CEPR*.
 
@@ -23,7 +23,7 @@ order: 4
 
 ["Prima che Sia Troppo Tardi"](https://fondazionefeltrinelli.it/prima-che-sia-troppo-tardi/), *La Nostra Città Futura*, 2019. Milano: Fondazione Giangiacomo Feltrinelli.
 
-### policy reports
+### reports
 
 [Citymaking: Chi Fa La Città?](https://fondazionefeltrinelli.it/app/uploads/2020/09/Citymaking_.pdf), with Gabriele Solazzi, 2020. Milano: Fondazione Giangiacomo Feltrinelli.
 
