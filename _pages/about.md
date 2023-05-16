@@ -22,7 +22,7 @@ I am a political sociologist studying the origins, workings, and consequences of
 
 *exclusionary politics.* Why macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm groups such as immigrants and women, and how local variation in state-provided public services shapes this relationship;
 
-*inclusive memories.* How collective memories of historical events such as wartime resistance against Nazi-Fascism are transmitted and mobilized today to marginalized groups' rights and create more inclusive societies.
+*inclusive memories.* How collective memories of historical events such as wartime resistance against Nazi-Fascism are transmitted and mobilized today to defend marginalized groups' rights and create more inclusive societies.
 
 My research combines multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
 
