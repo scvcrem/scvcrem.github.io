@@ -16,7 +16,7 @@ social: false  # includes social icons at the bottom of the page
 
 I am a political sociologist studying the origins, workings, and consequences of social and political marginalization. I work as a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
 
-**research.** My current research mainly focuses on the European context and investigates three intersecting areas:
+**research.** My current research mainly focuses on the European context following three intersecting lines:
 
 *ethnic marginality.* How immigrants and ethnic minority groups create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society;
 
