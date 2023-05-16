@@ -9,7 +9,7 @@ order: 4
 
 ### online articles
 
-[Public service deprivation and the rise of the far right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, VoxEU CEPR.
+[Public Service Deprivation and the Rise of the Far Right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, *VoxEU CEPR*.
 
 ["Crescere Cittadine e Cittadini in Ricerca"](https://www.fondfranceschi.it/notizie/crescere-cittadine-e-cittadini-in-ricerca/63466/), 2020. Milano: Fondazione Roberto Franceschi.
 
