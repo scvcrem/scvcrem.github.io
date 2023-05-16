@@ -1,7 +1,7 @@
 ---
 layout: page
 title: radio ghetto voci libere
-description: a media activism project in immigrant shantytowns in Italy.
+description: a media activism project in immigrant shantytowns in Italy
 img: assets/img/RG_pic1.jpg
 importance: 3
 ---

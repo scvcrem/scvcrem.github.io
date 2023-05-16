@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: teaching
-description: courses and classes I have designed and taught.
+description: courses and classes I have designed and taught
 nav: true
 order: 3
 ---
@@ -14,7 +14,7 @@ order: 3
 
 ### invited lectures
 
-*Ethnography*, PhD class
+*Ethnographic Fieldwork*, PhD class
 - Bocconi University, 2021
 - Leiden University, 2021
 

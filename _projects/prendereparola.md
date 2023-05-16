@@ -1,9 +1,9 @@
 ---
 layout: page
 title: speaking up, with social research
-description: a high school teaching program aimed empowering students through social research.
+description: a high school teaching program aimed empowering students through social research
 img: /assets/img/PP_pic1.jpeg
-importance: 1
+importance: 2
 category: work
 ---
 
@@ -21,3 +21,5 @@ category: work
 In the year 2019-20, [Jacopo Lareno](https://www.codiciricerche.it/it/people/jacopo-lareno-faccini/) , [Valentina Rotondi](http://www.valentinarotondi.eu/), [Giacomo Battiston](https://giacomobattiston.com/), and me taught the first pilot of the project to two classes of [Istituto Artemisia Gentileschi](https://www.gentileschi.edu.it/), a high-school in the West suburbs of Milano.
 
 You can learn more (in Italian) about the project and the pilot  by reading Fondazione Franceschi's [online report](https://www.fondfranceschi.it/prendereparola/), [this article](https://www.fondfranceschi.it/notizie/crescere-cittadine-e-cittadini-in-ricerca/63466/) by Jacopo Lareno and me, and [this article](https://www.fondfranceschi.it/notizie/prendere-la-parola-con-la-ricerca-sociale-unesperienza-che-suggerisce-un-modo-nuovo-di-fare-scuola/63610/) written by the high school professors taking part in the pilot. 
+
+<!--[Concluding video](https://www.youtube.com/watch?v=JOLUNpaV1vM) for ["Prendere la Parola, con la Ricerca Sociale"](/action). A short video realized during the 2020 lockdown to greet the students participating in the high school teaching program realized with [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/).-->

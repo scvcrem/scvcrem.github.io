@@ -1,9 +1,9 @@
 ---
 layout: page
 title: perchè non sono nata coniglio
-description: a book telling an important Italian story of civic engagement.
+description: a book telling an important story of political engagement
 img: assets/img/Copertina-scritture-pnsnc_SITO.jpg
-importance: 2
+importance: 1
 ---
 
 *Perchè Non Sono Nata Coniglio* is a novel (in Italian) telling the story of Lydia Buticchi Franceschi, mother of Roberto, a Bocconi student and activist shot in the back of the head by a police weapon on 23 January 50 years ago (1973). The book is authored by N23, a collective including doctors, lawyers, journalists, playwrights, actresses, professors, musicians, friends, united by the desire to make her story known and preserve her memory, of which I have the honor to be part.
@@ -17,4 +17,4 @@ importance: 2
     Book cover.
 </div>
 
-You can learn more about the book and purchase a copy on the website of [Fondazione Franceschi](https://www.fondfranceschi.it/libro-lydia-coniglio/). The funds raised from the sale of the book contribute to supporting the activities and projects of the Roberto Franceschi Onlus Foundation.
+You can learn more about the book watching the [book trailer](https://www.youtube.com/watch?v=W2-xRtW6MyY) that we prepared or visiting the website of [Fondazione Franceschi](https://www.fondfranceschi.it/libro-lydia-coniglio/), where you can also purchase your copy. The funds raised from the sales contribute to supporting the activities and projects of the Roberto Franceschi Onlus Foundation.
