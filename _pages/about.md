@@ -21,7 +21,7 @@ I am a political sociologist studying the origins, workings, and consequences of
 
 *ethnic marginality.* How immigrants and ethnic minority groups create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society;
 
-*exclusionary politics.* How macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm groups such as immigrants and women, and how local variation in state-provided public services shapes this relationship;
+*exclusionary politics.* Why macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm groups such as immigrants and women, and how local variation in state-provided public services shapes this relationship;
 
 *inclusive memories.* How collective memories of historical events such as wartime resistance against Nazi-Fascism are transmitted and mobilized today to marginalized groups' rights and create more inclusive societies.
 
