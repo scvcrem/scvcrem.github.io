@@ -2,7 +2,7 @@
 layout: page
 permalink: /research/
 title: research
-description: research projects at the data collection, analysis or writing stage.
+description: research projects at the writing stage
 nav: true
 order: 2
 ---

@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Political Sociologist at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>.
+subtitle: political sociologist based at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
 
 profile:
   align: right
@@ -17,13 +17,13 @@ social: false # includes social icons at the bottom of the page
 
 I am a political sociologist studying the origins, workings, and consequences of social and political marginalization. I work as a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), where I am part of the [ERC Project LOSS](https://dondena.unibocconi.eu/research-projects/loss). 
 
-**research.** My ongoing research focuses on the following three lines of enquiry:
+**research.** My current research follows three intersecting lines:
 
-*ethnic marginality.* How immigrants and minority groups create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society
+*ethnic marginality.* How immigrants and minority groups create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society;
 
-*exclusionary politics.* How macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm marginalized groups (e.g., immigrants, women, and LGBTQ+) in Europe, and how local variation in public services provision shapes this relationship
+*exclusionary politics.* How macro-societal changes such as economic crises, the gender revolution, and climate change create demand for policies that harm marginalized groups such as immigrants and women in Europe, and how local variation in state-provided public services shapes this relationship;
 
-*collective memory.* How collective memories of historical events, such as wartime resistance against Nazi-Fascism, are transmitted and mobilized to inform current political dynamics and intergroup relationships
+*inclusive memories.* How collective memories of historical events such as wartime resistance against Nazi-Fascism are transmitted and mobilized today to defend the rights of marginalized groups and create more inclusive societies.
 
 My research combines multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
 

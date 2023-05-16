@@ -2,18 +2,14 @@
 layout: page
 permalink: /media/
 title: media
-description: writings, audios, and videos I have realized to disseminate my research.
+description:  articles, podcasts, and videos aimed at nonacademic audiences
 nav: true
 order: 4
 ---
 
-### policy reports
-
-[Citymaking: Chi Fa La Città?](https://fondazionefeltrinelli.it/app/uploads/2020/09/Citymaking_.pdf), with Gabriele Solazzi, 2020. Milano: Fondazione Giangiacomo Feltrinelli.
-
-[Stanno Tutti Bene. Cittadini Senza Diritti. Rapporto Naga 2014](http://naga.it/wp-content/uploads/2018/09/Report_CitttadiniSenzaDiritti_Rapporto_2014.pdf), with Carlo Devillanova, Francesco Fasani, Tommaso Frattini, 2014. Milano: Associazione Naga.
-
 ### online articles
+
+[Public service deprivation and the rise of the far right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, VoxEU CEPR.
 
 ["Crescere Cittadine e Cittadini in Ricerca"](https://www.fondfranceschi.it/notizie/crescere-cittadine-e-cittadini-in-ricerca/63466/), 2020. Milano: Fondazione Roberto Franceschi.
 
@@ -27,9 +23,15 @@ order: 4
 
 ["Prima che Sia Troppo Tardi"](https://fondazionefeltrinelli.it/prima-che-sia-troppo-tardi/), *La Nostra Città Futura*, 2019. Milano: Fondazione Giangiacomo Feltrinelli.
 
-### audio
+### policy reports
 
-*Living in a European Shantytown.* Episode in the podcast series *ThinkDiverse*, hosted by [Catherine De Vries](https://www.catherinedevries.eu/) and [Bocconi University](https://www.unibocconi.eu/). Listen to this and other episodes on: [Spotify](https://open.spotify.com/episode/01xxdgvf5oSfsectYqiADy?si=2dd62eab29f84949), [Youtube](https://www.youtube.com/watch?v=UyMZP6A2FfQ&list=PLNBlD2s94-0sAg2LV36QGRxXYHAPllKEm&index=6&t=108s), [Apple Podcast](https://podcasts.apple.com/us/podcast/5-living-in-european-shantytowns-with-simone-cremaschi/id1610080017?i=1000552546524), or [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTQyMjUwMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDg4NzE4Mzc?sa=X&ved=0CAUQkfYCahcKEwjwruf9kI73AhUAAAAAHQAAAAAQAQ).
+[Citymaking: Chi Fa La Città?](https://fondazionefeltrinelli.it/app/uploads/2020/09/Citymaking_.pdf), with Gabriele Solazzi, 2020. Milano: Fondazione Giangiacomo Feltrinelli.
+
+[Stanno Tutti Bene. Cittadini Senza Diritti. Rapporto Naga 2014](http://naga.it/wp-content/uploads/2018/09/Report_CitttadiniSenzaDiritti_Rapporto_2014.pdf), with Carlo Devillanova, Francesco Fasani, Tommaso Frattini, 2014. Milano: Associazione Naga.
+
+### podcasts
+
+*Living in a European Shantytown.* Episode in the podcast series *ThinkDiverse*, hosted by Catherine De Vries and [Bocconi University](https://www.unibocconi.eu/). Listen to this and other episodes on: [Spotify](https://open.spotify.com/episode/01xxdgvf5oSfsectYqiADy?si=2dd62eab29f84949), [Youtube](https://www.youtube.com/watch?v=UyMZP6A2FfQ&list=PLNBlD2s94-0sAg2LV36QGRxXYHAPllKEm&index=6&t=108s), [Apple Podcast](https://podcasts.apple.com/us/podcast/5-living-in-european-shantytowns-with-simone-cremaschi/id1610080017?i=1000552546524), or [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTQyMjUwMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDg4NzE4Mzc?sa=X&ved=0CAUQkfYCahcKEwjwruf9kI73AhUAAAAAHQAAAAAQAQ).
 
 ### video
 
@@ -37,4 +39,4 @@ order: 4
 
 [Teaser for research project "Mappare gli Invisibili"](https://www.youtube.com/watch?v=OJWWBqAfGCU). A short video from my 2017 fieldwork in immigrant shantytowns around Foggia where I tell about my ongoing data collection (with a fantastic soundtrack by [Sandro Joyeux](https://open.spotify.com/artist/40BW0WxWyudFtFEawvZVp6?si=h6OAZOjuRAmraZ6nYEYz5g)).
 
-[Concluding video](https://www.youtube.com/watch?v=JOLUNpaV1vM) for ["Prendere la Parola, con la Ricerca Sociale"](/action). A short video realized during the 2020 lockdown to greet the students participating in the high school teaching program realized with [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/).
+
