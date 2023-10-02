@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /research/
-title: research
+permalink: /projects/
+title: projects
 description: research projects at the writing stage
 nav: true
 order: 2
