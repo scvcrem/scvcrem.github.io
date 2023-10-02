@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: submitted and published research
+description: working papers and published research
 nav: true
 order: 1
 ---
@@ -10,7 +10,7 @@ order: 1
 <!-- _pages/publications.md -->
 <div class="publications">
 
-<h2  class="pubyear">submitted articles</h2>
+<h2  class="pubyear">working papers</h2>
 {% bibliography -f submitted %}
 
 <h2  class="pubyear">peer reviewed articles</h2>
