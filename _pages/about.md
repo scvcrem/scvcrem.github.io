@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: political and social scientist based at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
+subtitle: political scientist based at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
 
 profile:
   align: right
