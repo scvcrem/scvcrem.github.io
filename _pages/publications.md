@@ -11,16 +11,16 @@ order: 1
 <div class="publications">
 
 <h2  class="pubyear">working papers</h2>
-{% bibliography -f submitted %}
+{% bibliography -f working_papers %}
+
+<h2  class="pubyear">work in progress</h2>
+{% bibliography -f work_in_progress %}
 
 <h2  class="pubyear">peer reviewed articles</h2>
 {% bibliography -f peer_reviewed %}
 
-<h2  class="pubyear">book chapters</h2>
-{% bibliography -f book_chapters %}
-
-<h2  class="pubyear">book reviews</h2>
-{% bibliography -f book_reviews %}
+<h2  class="pubyear">other publications</h2>
+{% bibliography -f other_pubs %}
 
 </div>
 
