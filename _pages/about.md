@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Political sociologist based at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
+subtitle: political and social scientist based at <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
 
 profile:
   align: right
@@ -15,15 +15,13 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in political sociology, comparative political economy, and public policy. From January to June 2024, I will be a visiting fellow at [Columbia University, Department of Sociology](https://sociology.columbia.edu/).
+I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in political sociology, comparative political economy, and public policy. <!-- From January to June 2024, I will be a visiting fellow at [Columbia University](https://sociology.columbia.edu/). -->
 
-**research.** My research agenda currently focuses on three main topics:
+**research.** My research focuses on two main areas:
 
-*immigrant marginalization and ethnic boundary making*. I show that informality creates opportunities for communal organization among severely marginalized immigrants, and study how these underground ethnic communities shape individual's adaptation strategies. I argue that self-organized immigrant camps across Europe provide a space where the most marginalized immigrants can withdraw and cultivate a distinct identity. 
+*immigrant exploitation and ethnic integration.* How immigrants create parallel institutional infrastructures to survive poverty and exclusion, and how such institutional parallelism shapes their relationship with the mainstream society;
 
-*public service provision and exclusionary politics*. Together with [Catherine De Vries](https://www.catherinedevries.eu/) and fellow co-authors, I study how local public services shape people's perceptions of the state and their voting choices. We argue that reductions of public service in Western democracies have fostered support for far-right parties.
-
-*collective memory and political mobilization.* Together with [Juan Masullo](https://www.juanmasullo.com/), I study how the memory of the Italian partisan resistance against Nazi-fascism continues to shape anti-fascist mobilization. We argue that local communities can transmit historically defining experiences across generations, activating them when core values are perceived to be under threat.
+*local context and political behavior.* How local contextual factors, including community histories, access to public services, local labor market dynamics, and environmental degradation, shape individual political behavior;
 
 My research combines multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
 

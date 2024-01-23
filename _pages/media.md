@@ -4,7 +4,7 @@ permalink: /media/
 title: media
 description: online writings, podcasts, and videos aimed at nonacademic audiences
 nav: true
-order: 3
+order: 4
 ---
 
 ### articles
