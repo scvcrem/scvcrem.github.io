@@ -35,7 +35,7 @@ order: 4
 
 ### videos
 
-[La Repubblica degli Sfruttati.](https://www.fondfranceschi.it/convegni-e-altre-attivita/la-repubblica-degli-sfruttati-diritti-del-lavoro-contro-caporalato-simone-cremaschi-e-marco-omizzolo-dialogano-con-massimiliano-perna/78388/), with Marco Omizzolo and Massimilano Perna. Episode in the webinar series *Eneide, la Storia Infinita dei Migranti* organized by Movimento 23 and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). Watch it on [Youtube](https://www.youtube.com/watch?v=YeTVIUKZs3c) or [Facebook](https://fb.watch/ck_05ulh_U/).
+[La Repubblica degli Sfruttati.](https://www.fondfranceschi.it/convegni-e-altre-attivita/la-repubblica-degli-sfruttati-diritti-del-lavoro-contro-caporalato-simone-cremaschi-e-marco-omizzolo-dialogano-con-massimiliano-perna/78388/), with Marco Omizzolo and Massimilano Perna. Episode in the webinar series *Eneide, la Storia Infinita dei Migranti* organized by Movimento 23 and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). Watch it on [Youtube](https://www.youtube.com/watch?v=YeTVIUKZs3c).
 
 [Teaser for research project "Mappare gli Invisibili"](https://www.youtube.com/watch?v=OJWWBqAfGCU). A short video from my 2017 fieldwork in immigrant shantytowns around Foggia where I tell about my ongoing data collection (with a fantastic soundtrack by [Sandro Joyeux](https://open.spotify.com/artist/40BW0WxWyudFtFEawvZVp6?si=h6OAZOjuRAmraZ6nYEYz5g)).
 
