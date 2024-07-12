@@ -3,8 +3,7 @@ layout: page
 title: action
 permalink: /action/
 description: collective writing, social, and activism projects connected to my research 
-nav: true
-order: 5
+nav: false
 horizontal: false
 ---
 

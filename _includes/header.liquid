@@ -14,7 +14,9 @@
               {{- site.middle_name -}}
             {% endif %}
             {% if site.last_name %}
+              <span class="font-weight-bold">
               {{- site.last_name -}}
+              </span>
             {% endif %}
           {% else %}
             {{- site.title -}}
@@ -117,6 +119,12 @@
             </li>
           {% endif %}
           {% if site.enable_darkmode %}
+           <! Link to CV --->
+            <li class="nav-item">
+            <a class="nav-link" href="{{'assets/pdf/cv_web.pdf' | relative_url }}" target="_blank">
+            cv
+            </a>
+            </li>
             <!-- Toogle theme mode -->
             <li class="toggle-container">
               <button id="light-toggle" title="Change theme">

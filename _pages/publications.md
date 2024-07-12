@@ -4,7 +4,7 @@ permalink: /publications/
 title: publications
 description: working papers and published research
 nav: true
-order: 1
+nav_order: 1
 ---
 
 <!-- _pages/publications.md -->
