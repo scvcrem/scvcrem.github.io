@@ -3,7 +3,7 @@ layout: page
 title: other
 nav: true
 nav_order: 3
-dropdown: false
+dropdown: true
 children:
   - title: media
     permalink: /media/
