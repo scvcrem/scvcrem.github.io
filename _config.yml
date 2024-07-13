@@ -328,8 +328,9 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type
-  group_order: [unpublished, article, misc, inbook]
+  group_by: 
+  group_order:  
+
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
