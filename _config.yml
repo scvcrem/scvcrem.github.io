@@ -328,9 +328,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: abbr
-  abbr_order: [paper, wp, other]
-  abbr_names: { paper: peer reviewed papers, wp: working papers, other: book chapters & reviews }
+  group_by: type
+  abbr_order: [article, techreport]
   sort_by: year
   order: descending
 
