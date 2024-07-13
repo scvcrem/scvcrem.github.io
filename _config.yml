@@ -328,10 +328,8 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: type
-  abbr_order: [article, techreport]
+  group_by: 
   sort_by: year
-  order: descending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
