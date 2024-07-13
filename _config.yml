@@ -329,7 +329,7 @@ scholar:
 
   query: "@*"
   group_by: type
-  group_order: [article, techreport]
+  group_order: [unpublished, article, misc, inbook]
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
