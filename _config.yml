@@ -328,8 +328,11 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: abbr, year
-  group_order: descending
+  group_by: abbr
+  abbr_order: [paper, wp, other]
+  abbr_names: { paper: peer reviewed papers, wp: working papers, other: book chapters & reviews }
+  sort_by: year
+  order: descending
 
 # Display different badges withs stats for your publications
 enable_publication_badges:
