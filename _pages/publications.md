@@ -1,14 +1,25 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: working papers and published research
+title:
+description:
 nav: true
 nav_order: 1
 ---
 
 <div class="publications">
 
-{% bibliography %}
+<h2 class="pubyear">peer reviewed articles</h2>
+{% bibliography -file papers %}
+
+<h2 class="pubyear">working papers</h2>
+{% bibliography -file wp %}
+
+<h2 class="pubyear">selected work in progress</h2>
+{% bibliography -file inprogress %}
+
+<h2 class="pubyear">book chapters & reviews</h2>
+{% bibliography -file other %}
+
 
 </div>
