@@ -19,4 +19,3 @@ nav_order: 2
 
 *Trust and Ethnicity*, PhD class
 - European University Institute, 2017
-
