@@ -9,7 +9,11 @@ nav_order: 2
 ### main instructor
 
 *Populism and Crisis*, PhD course
+- Bocconi University, spring 2025
 - Bocconi University, spring 2023
+
+*European Politics: Between Technocracy and Populism*, MSc course
+- Bocconi University, spring 2025
 
 ### invited lectures
 
