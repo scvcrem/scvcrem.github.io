@@ -1,8 +1,6 @@
 ---
 layout: page
 permalink: /publications/
-title: oub
-description:
 nav: true
 nav_order: 1
 ---
