@@ -2,7 +2,6 @@
 layout: page
 permalink: /media/
 title: media
-description: online writings, podcasts, and videos aimed at nonacademic audiences
 nav: true
 nav_order: 3
 ---
