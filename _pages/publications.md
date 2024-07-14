@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /publications/
-title:
+title: oub
 description:
 nav: true
 nav_order: 1
@@ -10,16 +10,16 @@ nav_order: 1
 <div class="publications">
 
 <h2 class="pubyear">peer reviewed articles</h2>
-{% bibliography -file papers %}
+{% bibliography -f papers %}
 
 <h2 class="pubyear">working papers</h2>
-{% bibliography -file wp %}
+{% bibliography -f wp %}
 
 <h2 class="pubyear">selected work in progress</h2>
-{% bibliography -file inprogress %}
+{% bibliography -f inprogress %}
 
-<h2 class="pubyear">book chapters & reviews</h2>
-{% bibliography -file other %}
+<h2 class="pubyear">book chapters and reviews</h2>
+{% bibliography -f other %}
 
 
 </div>
