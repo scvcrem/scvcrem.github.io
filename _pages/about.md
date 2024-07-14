@@ -17,13 +17,13 @@ social: false # includes social icons at the bottom of the page
 
 I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in political sociology, comparative political economy, and public policy. <!-- From January to June 2024, I will be a visiting fellow at [Columbia University](https://sociology.columbia.edu/). -->
 
-**research.** My research examines the micro-foundations of political conflict and economic exploitation related to immigration, and their interplay with broader societal changes in Western Europe. My ongoing work concentrates on the following four key questions:
+**research.** My research investigates the micro-foundations of political conflict on immigration, and their interplay with macro societal changes in Western Europe. Most of my ongoing work focuses the following key questions:
 
-*immigrant exploitation and ethnic organization.* How local demand for exploited farm labor fosters underground ethnic organization and shapes immigrant strategies to survive marginalization;
+*immigrant exploitation and ethnic community.* How local demand for exploited farm labor fosters immigrant underground organization and ethnic community choices;
 
-*public service deprivation and far-right support.* How inadequate access to public services generates enduring feelings of abandonment by the state and boosts support for anti-immigrant parties;
+*public service access and far-right support.* How public service deprivation generates enduring feelings of abandonment by the state and boosts support for anti-immigrant policy platforms;
 
-*collective memory and anti-fascism.* How local communities preserve and mobilize memories of resistance against fascism to counter contemporary exclusionary pressures;
+*collective memory and anti-fascism.* How local communities preserve and mobilize memories of armed resistance against fascism to counter contemporary far-right pressures;
 
  *electoral consequences of climate change.* Why climate-related natural disasters may fail to increase support for environmental policy and instead bolster far-right parties.
 
