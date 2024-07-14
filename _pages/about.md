@@ -23,7 +23,7 @@ I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](http
 
 *public service access and far-right support.* How public service deprivation generates enduring feelings of abandonment by the state and boosts support for anti-immigrant policy platforms;
 
-*collective memory and anti-fascism.* How local communities preserve and mobilize memories of armed resistance against fascism to counter contemporary far-right pressures;
+*collective memory and anti-fascism.* How local communities preserve memories of armed resistance against fascism and mobilize them to counter contemporary far-right pressures;
 
  *electoral consequences of climate change.* Why climate-related natural disasters may fail to increase support for environmental policy and instead bolster far-right parties.
 
