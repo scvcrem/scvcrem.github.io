@@ -17,9 +17,9 @@ social: false # includes social icons at the bottom of the page
 
 I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in political sociology, comparative political economy, and public policy.
 
-**research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal changes in advanced industrial democracies. I address the following key questions:
+**research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change in advanced industrial democracies. I address the following key questions:
 
-*immigrant exploitation and ethnic community.* How local demand for exploited farm labor fosters immigrant underground organization and ethnic community choices;
+*immigrant exploitation and formation of ethnic community.* How local demand for exploited farm labor fosters immigrant underground organization and ethnic community choices;
 
 *access to public services and support for the far-right.* How public service deprivation generates a lasting sense of abandonment by the state and strenghtens support for anti-immigrant political platforms;
 
