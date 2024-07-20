@@ -19,7 +19,7 @@ I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](http
 
 **research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change in advanced industrial democracies. I address the following key questions:
 
-*immigrant exploitation and ethnic boundary making.* How local demand for exploited farm labor fosters immigrant underground organization and ethnic community choices;
+*immigrant exploitation and ethnic boundary making.* How demand for exploited farm labor enables immigrants' underground organization and shapes their ethnic community choices;
 
 *access to public services and support for the far-right.* How public service deprivation generates a lasting sense of abandonment by the state and strenghtens support for anti-immigrant political platforms;
 
