@@ -26,7 +26,7 @@ nav_order: 3
 
 [Citymaking: Chi Fa La Città?](https://fondazionefeltrinelli.it/app/uploads/2020/09/Citymaking_.pdf), with Gabriele Solazzi, 2020. Milano: Fondazione Giangiacomo Feltrinelli.
 
-[Stanno Tutti Bene. Cittadini Senza Diritti. Rapporto Naga 2014](http://naga.it/wp-content/uploads/2018/09/Report_CitttadiniSenzaDiritti_Rapporto_2014.pdf), with Carlo Devillanova, Francesco Fasani, Tommaso Frattini, 2014. Milano: Associazione Naga.
+[Stanno Tutti Bene. Cittadini Senza Diritti. Rapporto Naga 2014](https://naga.it/2014/12/17/cittadini-senza-diritti-rapporto-naga-2014-stanno-tutti-bene/), with Carlo Devillanova, Francesco Fasani, Tommaso Frattini, 2014. Milano: Associazione Naga.
 
 ### podcasts
 
