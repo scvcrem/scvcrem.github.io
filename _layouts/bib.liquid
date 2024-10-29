@@ -219,6 +219,18 @@
           <a href="{{ entry.preprint | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
         {% endif %}
       {% endif %}
+      {% if entry.publisher %}
+        {% if entry.publisher contains '://' %}
+          <a href="{{ entry.publisher }}" class="btn btn-sm z-depth-0" role="button">Publisher</a>
+      {% endif %}
+      {% if entry.dataverse %}
+        {% if entry.dataverse contains '://' %}
+          <a href="{{ entry.dataverse }}" class="btn btn-sm z-depth-0" role="button">Replication</a>
+      {% endif %}
+      {% if entry.annotations %}
+        {% if entry.annotations contains '://' %}
+          <a href="{{ entry.annotations }}" class="btn btn-sm z-depth-0" role="button">Annotations</a>
+      {% endif %}
       {% if entry.supp %}
         {% if entry.supp contains '://' %}
           <a href="{{ entry.supp }}" class="btn btn-sm z-depth-0" role="button">Supp</a>
