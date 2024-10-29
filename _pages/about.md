@@ -20,7 +20,7 @@ I am a Postdoctoral Research Fellow at Bocconi University, [Department of Social
 
 **research.** I investigate political dynamics related to immigration and ethnicity, place-based identities, and climate change. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. Some of my ongoing research is published or conditionally accepted for publication at leading political science journals such as *Comparative Political Studies*, *Journal of Politics*, *American Journal of
 Political Science*, and *American Political Science Review*, and has been featured in major media
-outlets like *The Guardian* and the *The New York Times*. 
+outlets like [*The Guardian*](https://www.theguardian.com/commentisfree/article/2024/aug/02/europe-far-right-labour-nhs-nigel-farage?CMP=share_btn_url) and the [*The New York Times*](https://www.nytimes.com/2024/08/10/business/economy/uk-riots-economy.html?smid=nytcore-android-share). 
 
 <!--- **research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change and group identities. I address the following key questions:
 
