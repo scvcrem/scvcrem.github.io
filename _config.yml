@@ -362,6 +362,7 @@ filtered_bibtex_keywords:
     slides,
     supp,
     video,
+    preprint,
     website,
   ]
 
