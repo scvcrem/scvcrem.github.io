@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://sps.unibocconi.eu/'>Bocconi University</a>
+subtitle: <a href='https://www.unibocconi.it/'>Bocconi University</a>
+
 
 profile:
   align: right
@@ -15,9 +16,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in political sociology, comparative political economy, and public policy.
+I am a Postdoctoral Research Fellow at Bocconi University, [Department of Social and Political Sciences](https://sps.unibocconi.eu/) and [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in comparative political economy, political sociology, and political behavior.
 
-**research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change and group identities. I address the following key questions:
+**research.** I investigate political dynamics related to immigration and ethnicity, place-based identities, and climate change. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. Some of my ongoing research is published or conditionally accepted for publication at leading political science journals such as *Comparative Political Studies*, *Journal of Politics*, *American Journal of
+Political Science*, and *American Political Science Review*, and has been featured in major media
+outlets like *The Guardian* and the *The New York Times*. 
+
+<!--- **research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change and group identities. I address the following key questions:
 
 *immigrant exploitation and ethnic boundary making.* How demand for exploited farm labor enables immigrants' underground organization and shapes their ethnic community choices;
 
@@ -27,8 +32,9 @@ I am a Postdoctoral Research Fellow at Bocconi University, [Dondena Centre](http
 
  *the electoral consequences of climate change.* Why climate-related natural disasters may fail to increase support for environmental policy and instead strenghten far-right parties.
 
-I combine multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two.
+I combine multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two. --->
 
-**vita.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). I have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. I have collaborated on social and research dissemination projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/).
+
+**vita.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences).  My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). I have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. I have collaborated on social and research dissemination projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/).
 
 **contacts.** To get in touch, you can send me an email at [simone [dot] cremaschi [at] unibocconi [dot] it](simone.cremaschi@unibocconi.it).
