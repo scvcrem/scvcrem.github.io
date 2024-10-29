@@ -37,7 +37,5 @@ I combine multiple types of methods and evidence, often involving extensive qual
 
 **vita.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). I have collaborated on social and research dissemination projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/).
 
-**Contacts.** To get in touch, you can send me an email at 
-<script>
-  document.write('<a href="mailto:' + 'simone.cremaschi' + '@' + 'unibocconi.it">Contact me</a>');
-</script>
+**Contacts.** To get in touch, you can send me an email at [simone.cremaschi@unibocconi.it](mailto:simone.cremaschi@unibocconi.it). 
+
