@@ -16,11 +16,16 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Fellow at Bocconi University, [Department of Social and Political Sciences](https://sps.unibocconi.eu/) and [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in comparative political economy, political sociology, and political behavior.
+I am a Postdoctoral Research Fellow at Bocconi University's [Department of Social and Political Sciences](https://sps.unibocconi.eu/) and [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit), studying topics in comparative political economy, political sociology, and political behavior.
 
-**research.** I investigate political dynamics related to immigration and ethnicity, place-based identities, and climate change. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. Some of my ongoing research is published or conditionally accepted for publication at leading political science journals such as *Comparative Political Studies*, *Journal of Politics*, *American Journal of
+**research.** I investigate the politics of immigration, climate change, and place-based identities. My PhD has won the 2021 [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) as the best dissertation on migration, integration, and social cohesion in Europe. My research is published or conditionally accepted in leading political science journals, such as *Comparative Political Studies*, *Journal of Politics*, *American Journal of
 Political Science*, and *American Political Science Review*, and has been featured in major media
-outlets like [*The Guardian*](https://www.theguardian.com/commentisfree/article/2024/aug/02/europe-far-right-labour-nhs-nigel-farage?CMP=share_btn_url) and the [*The New York Times*](https://www.nytimes.com/2024/08/10/business/economy/uk-riots-economy.html?smid=nytcore-android-share). 
+outlets like [*The Guardian*](https://www.theguardian.com/commentisfree/article/2024/aug/02/europe-far-right-labour-nhs-nigel-farage?CMP=share_btn_url) and the [*The New York Times*](https://www.nytimes.com/2024/08/10/business/economy/uk-riots-economy.html?smid=nytcore-android-share). All my [publications](/_pages/publications/) are available on this site.
+
+**vita.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences) and have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html) with the [Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). I have collaborated on [social](/_pages/projects/) and [research dissemination](/_pages/media) projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/). For more details, see my [Curriculum Vitae](/_assets/pdf/cv_web.pdf).
+
+**contacts.** To get in touch, please email me at [simone.cremaschi@unibocconi.it](mailto:simone.cremaschi@unibocconi.it). 
+
 
 <!--- **research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change and group identities. I address the following key questions:
 
@@ -33,9 +38,4 @@ outlets like [*The Guardian*](https://www.theguardian.com/commentisfree/article/
  *the electoral consequences of climate change.* Why climate-related natural disasters may fail to increase support for environmental policy and instead strenghten far-right parties.
 
 I combine multiple types of methods and evidence, often involving extensive qualitative fieldwork and design-based causal inference, and developing new approaches to combine the two. --->
-
-
-**vita.** I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/academic-units/political-and-social-sciences). I have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html)-[Immigration Policy Lab](https://immigrationlab.org/), and Bocconi University. My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/). I have collaborated on social and research dissemination projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/).
-
-**contacts.** To get in touch, you can send me an email at [simone.cremaschi@unibocconi.it](mailto:simone.cremaschi@unibocconi.it). 
 
