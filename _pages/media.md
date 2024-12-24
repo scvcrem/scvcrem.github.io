@@ -8,6 +8,8 @@ nav_order: 3
 
 ### articles
 
+[Non Criminalizziamo i Caporali](https://www.rivistaeco.com/2024/11/15/non-criminalizziamo-i-caporali/), 2024, eco.
+
 [Public Service Deprivation and the Rise of the Far Right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, *VoxEU CEPR*.
 
 ["Crescere Cittadine e Cittadini in Ricerca"](https://www.fondfranceschi.it/notizie/crescere-cittadine-e-cittadini-in-ricerca/63466/), 2020. Milano: Fondazione Roberto Franceschi.
