@@ -16,7 +16,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a political scientist researching the political economy of **inclusion** and the **provision of public goods** in liberal democracies. I work as a Postdoctoral Research Fellow at Bocconi University's [Department of Social and Political Sciences](https://sps.unibocconi.eu/) and [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit).
+I am a political scientist researching the **political economy of inclusion** and the **provision of public goods** in liberal democracies. I work as a Postdoctoral Research Fellow at Bocconi University's [Department of Social and Political Sciences](https://sps.unibocconi.eu/) and [Dondena Centre](https://dondena.unibocconi.eu/research-areas/politics-and-institutions-unit).
 
 **research.** My work examines political conflicts over material resources — such as competition for **access to public services** along ethnic and territorial lines, and the **exploitation of migrant labor** in globalized agriculture — and how **community narratives** and **collective memories** shape these struggles, enabling exclusionary as well as pro-democratic mobilization. I combine diverse methods and types of evidence, often involving extensive qualitative fieldwork and design-based causal inference, while also developing new approaches to integrate the two. 
 
