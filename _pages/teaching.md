@@ -19,4 +19,4 @@ nav_order: 3
 
 *Prendere la Parola, con La Ricerca Sociale*, Istituto Artemisia Gentileschi, Milano. 
 2019-2020.
-- Learn more [here](https://simonecremaschi.com/publications/perchènonsononataconiglio)
+- Learn more [here](https://simonecremaschi.com/projects/perchenonsononataconiglio)
