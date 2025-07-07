@@ -30,7 +30,7 @@ nav_order: 4
 
 ### book
 
-[*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/) (with N23, learn more [here](https://simonecremaschi.com/publications/perchenonsononataconiglio)), 2020. Milano: Edizioni Alegre.
+[*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/) (with N23, learn more [here](https://simonecremaschi.com/projects/perchenonsononataconiglio)), 2020. Milano: Edizioni Alegre.
 
 ### reports
 
@@ -42,7 +42,7 @@ nav_order: 4
 
 *Living in a European Shantytown.* Episode in the podcast series *ThinkDiverse*, hosted by Catherine De Vries and [Bocconi University](https://www.unibocconi.eu/). Listen to this and other episodes on: [Spotify](https://open.spotify.com/episode/01xxdgvf5oSfsectYqiADy?si=6497cd5ae7084a34), [Youtube](https://www.youtube.com/watch?v=UyMZP6A2FfQ&list=PLNBlD2s94-0sAg2LV36QGRxXYHAPllKEm&index=6&t=108s), [Apple Podcast](https://podcasts.apple.com/us/podcast/5-living-in-european-shantytowns-with-simone-cremaschi/id1610080017?i=1000552546524), or [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTQyMjUwMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDg4NzE4Mzc?sa=X&ved=0CAUQkfYCahcKEwjwruf9kI73AhUAAAAAHQAAAAAQAQ).
 
-[*Archivio Radio Ghetto Voci Libere*](https://radioghettovocilibere.wordpress.com/) (with the Radio Ghetto Collective, learn more [here](https://simonecremaschi.com/publications/radioghetto)), 2013-2016. 
+[*Archivio Radio Ghetto Voci Libere*](https://radioghettovocilibere.wordpress.com/) (with the Radio Ghetto Collective, learn more [here](https://simonecremaschi.com/projects/radioghetto)), 2013-2016. 
 
 ### videos
 
