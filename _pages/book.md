@@ -17,7 +17,7 @@ nav_order: 2
     </div>
 </div>
 <div class="caption">
-    Migrant Informal Camp Near Borgo Mezzanone, 2017.
+    Informal migrant camp near Foggia, Italy, 2017.
 </div>
 
 The book is anchored in a puzzle: Why do thousands of migrant farmworkers in Italy—mostly West African men—move to isolated, overcrowded shantytowns, far from public services, welfare access, and legal protections? Why do many remain for years, even rebuilding camps after fires and evictions, rather than moving to state- or charity-run shelters?

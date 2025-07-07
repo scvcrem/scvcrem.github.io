@@ -19,4 +19,4 @@ nav_order: 4
 
 *Prendere la Parola, con La Ricerca Sociale*, Istituto Artemisia Gentileschi, Milano. 
 2019-2020.
-- High School Teaching program funded by [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), learn more [here](https://simonecremaschi.com/projects/prendereparola)
+- High-school teaching program funded by [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), learn more [here](https://simonecremaschi.com/projects/prendereparola)
