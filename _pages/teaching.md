@@ -3,10 +3,10 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
-### academic
+### university
 
 *Populism and Crisis*, PhD course
 - Bocconi University, spring 2025
@@ -15,8 +15,8 @@ nav_order: 3
 *European Politics: Between Technocracy and Populism*, MSc course
 - Bocconi University, spring 2025
 
-### social
+### school
 
 *Prendere la Parola, con La Ricerca Sociale*, Istituto Artemisia Gentileschi, Milano. 
 2019-2020.
-- Learn more [here](https://simonecremaschi.com/projects/perchenonsononataconiglio)
+- High School Teaching program funded by [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), learn more [here](https://simonecremaschi.com/projects/prendereparola)
