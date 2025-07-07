@@ -3,12 +3,16 @@ layout: page
 permalink: /media/
 title: media
 nav: true
-nav_order: 3
+nav_order: 4
 ---
 
 ### articles
 
-[Non Criminalizziamo i Caporali](https://www.rivistaeco.com/2024/11/15/non-criminalizziamo-i-caporali/), 2024, eco.
+[Italy’s Areas of Wartime Fascist Resistance Remain Less Susceptible to the Far Right Today](https://theconversation.com/italys-areas-of-wartime-fascist-resistance-remain-less-susceptible-to-the-far-right-today-255859) (with Juan Masullo), 2025, *The Conversation*.
+
+[Conversations with Authors: Without Roots: The Political Consequences of Collective Economic Shocks](https://www.cambridge.org/core/blog/2025/03/17/conversations-with-authors-without-roots-the-political-consequences-of-collective-economic-shocks/) (with Nicola Bariletto and Catherine E. De Vries), 2025, *APSR Blog*.
+
+[Non Criminalizziamo i Caporali](https://www.rivistaeco.com/2024/11/15/non-criminalizziamo-i-caporali/), 2024, *Rivista eco*.
 
 [Public Service Deprivation and the Rise of the Far Right](https://cepr.org/voxeu/columns/public-service-deprivation-and-rise-far-right), with Paula Rettl, Marco Cappelluti, and Catherine De Vries, 2023, *VoxEU CEPR*.
 
@@ -24,6 +28,10 @@ nav_order: 3
 
 "Prima che Sia Troppo Tardi", *La Nostra Città Futura*, 2019. Milano: Fondazione Giangiacomo Feltrinelli.
 
+### book
+
+[*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/) (with N23, learn more [here](https://simonecremaschi.com/publications/perchènonsononataconiglio)), 2020. Milano: Edizioni Alegre.
+
 ### reports
 
 [Citymaking: Chi Fa La Città?](https://fondazionefeltrinelli.it/app/uploads/2020/09/Citymaking_.pdf), with Gabriele Solazzi, 2020. Milano: Fondazione Giangiacomo Feltrinelli.
@@ -33,6 +41,8 @@ nav_order: 3
 ### audio
 
 *Living in a European Shantytown.* Episode in the podcast series *ThinkDiverse*, hosted by Catherine De Vries and [Bocconi University](https://www.unibocconi.eu/). Listen to this and other episodes on: [Spotify](https://open.spotify.com/episode/01xxdgvf5oSfsectYqiADy?si=6497cd5ae7084a34), [Youtube](https://www.youtube.com/watch?v=UyMZP6A2FfQ&list=PLNBlD2s94-0sAg2LV36QGRxXYHAPllKEm&index=6&t=108s), [Apple Podcast](https://podcasts.apple.com/us/podcast/5-living-in-european-shantytowns-with-simone-cremaschi/id1610080017?i=1000552546524), or [Google Podcast](https://podcasts.google.com/feed/aHR0cHM6Ly93d3cuc3ByZWFrZXIuY29tL3Nob3cvNTQyMjUwMS9lcGlzb2Rlcy9mZWVk/episode/aHR0cHM6Ly9hcGkuc3ByZWFrZXIuY29tL2VwaXNvZGUvNDg4NzE4Mzc?sa=X&ved=0CAUQkfYCahcKEwjwruf9kI73AhUAAAAAHQAAAAAQAQ).
+
+[*Archivio Radio Ghetto Voci Libere*](https://radioghettovocilibere.wordpress.com/) (with the Radio Ghetto Collective, learn more [here](https://simonecremaschi.com/publications/radioghetto)), 2013-2016. 
 
 ### videos
 

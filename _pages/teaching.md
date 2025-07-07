@@ -3,10 +3,10 @@ layout: page
 permalink: /teaching/
 title: teaching
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 
-### main instructor
+### academic
 
 *Populism and Crisis*, PhD course
 - Bocconi University, spring 2025
@@ -15,11 +15,8 @@ nav_order: 2
 *European Politics: Between Technocracy and Populism*, MSc course
 - Bocconi University, spring 2025
 
-### invited lectures
+### social
 
-*Ethnographic Fieldwork*, PhD class
-- Bocconi University, 2021
-- Leiden University, 2021
-
-*Trust and Ethnicity*, PhD class
-- European University Institute, 2017
+*Prendere la Parola, con La Ricerca Sociale*, Istituto Artemisia Gentileschi, Milano. 
+2019-2020.
+- Learn more [here](https://simonecremaschi.com/publications/perchènonsononataconiglio)

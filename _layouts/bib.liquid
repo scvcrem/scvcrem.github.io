@@ -212,26 +212,26 @@
           <a href="{{ entry.pdf | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">PDF</a>
         {% endif %}
       {% endif %}
-     {% if entry.preprint %}
+      {% if entry.article %}
+        {% if entry.article contains '://' %}
+          <a href="{{ entry.article }}" class="btn btn-sm z-depth-0" role="button">Article</a>
+        {% endif %}
+        {% if entry.preprint %}
         {% if entry.preprint contains '://' %}
           <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
         {% else %}
           <a href="{{ entry.preprint | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
         {% endif %}
       {% endif %}
-      {% if entry.publisher %}
-        {% if entry.publisher contains '://' %}
-          <a href="{{ entry.publisher }}" class="btn btn-sm z-depth-0" role="button">Publisher</a>
-        {% endif %}
       {% endif %}
       {% if entry.dataverse %}
         {% if entry.dataverse contains '://' %}
-          <a href="{{ entry.dataverse }}" class="btn btn-sm z-depth-0" role="button">Replication</a>
+          <a href="{{ entry.dataverse }}" class="btn btn-sm z-depth-0" role="button">Dataverse</a>
         {% endif %}
       {% endif %}
       {% if entry.annotations %}
         {% if entry.annotations contains '://' %}
-          <a href="{{ entry.annotations }}" class="btn btn-sm z-depth-0" role="button">ATI</a>
+          <a href="{{ entry.annotations }}" class="btn btn-sm z-depth-0" role="button">QDR-ATI</a>
         {% endif %}
       {% endif %}
       {% if entry.supp %}
