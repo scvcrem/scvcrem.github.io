@@ -30,7 +30,7 @@ nav_order: 4
 
 ### book
 
-[*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/) (with N23, learn more [here](https://simonecremaschi.com/publications/perchènonsononataconiglio)), 2020. Milano: Edizioni Alegre.
+[*Perchè Non Sono Nata Coniglio*](https://www.fondfranceschi.it/libro-lydia-coniglio/) (with N23, learn more [here](https://simonecremaschi.com/publications/perchenonsononataconiglio)), 2020. Milano: Edizioni Alegre.
 
 ### reports
 
