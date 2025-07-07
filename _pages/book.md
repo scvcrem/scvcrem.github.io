@@ -6,7 +6,8 @@ nav: true
 nav_order: 2
 ---
 
-## Inside Migrant Exploitation: Farm Work and Cooperation in Italy's Informal Camps
+## Inside Migrant Exploitation 
+### Farm Work and Cooperation in Italy's Informal Camps
 
 *Inside Migrant Exploitation* uncovers how migrant workers in Italy build underground institutions that enable their collective survival in informal camps—while channeling their labor into one of Europe’s most exploitative supply chains. Grounded in unique ethnographic access and original interview and survey data, the book develops a new theory of mass migrant exploitation in advanced democracies, showing how it can emerge not through violence or coercion, but through mutually beneficial—yet structurally unfair—exchanges at society’s margins.
 
