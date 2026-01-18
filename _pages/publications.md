@@ -14,7 +14,7 @@ nav_order: 1
 <h2 class="pubyear">selected work in progress</h2>
 {% bibliography -f inprogress %}
 
-<h2 class="pubyear">book chapters and reviews</h2>
+<h2 class="pubyear">other publications</h2>
 {% bibliography -f other %}
 
 

@@ -8,6 +8,8 @@ nav_order: 3
 
 ### articles
 
+[Profiting from Neoliberalism: How the Radical Right Gains From Crumbling Public Services](https://www.karlpolanyisociety.com/2025/10/23/fl-blog-cremaschi-profiting-from-neoliberalism/), 2025, *Fascism & Liberalism Blog*, International Karl Polanyi Society.
+
 [Italy’s Areas of Wartime Fascist Resistance Remain Less Susceptible to the Far Right Today](https://theconversation.com/italys-areas-of-wartime-fascist-resistance-remain-less-susceptible-to-the-far-right-today-255859) (with Juan Masullo), 2025, *The Conversation*.
 
 [Conversations with Authors: Without Roots: The Political Consequences of Collective Economic Shocks](https://www.cambridge.org/core/blog/2025/03/17/conversations-with-authors-without-roots-the-political-consequences-of-collective-economic-shocks/) (with Nicola Bariletto and Catherine E. De Vries), 2025, *APSR Blog*.
