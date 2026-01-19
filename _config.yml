@@ -6,7 +6,7 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Simone
 middle_name: 
 last_name: Cremaschi
-email: simone.cremaschi@ox.ac.uk
+email: simone.cremaschi@politics.ox.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Simone Cremaschi | Departmental Lecturer at University of Oxford, Department of Politics and International Relations.
 footer_text: >

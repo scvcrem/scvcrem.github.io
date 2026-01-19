@@ -26,7 +26,7 @@ I am a political scientists studying topics in comparative political economy, po
 and have spent visiting periods at [Columbia University](https://sociology.columbia.edu/), 
 the [WZB Berlin](https://wzb.eu/en), [ETH Zurich](https://ethz.ch/de.html) with the [Immigration Policy Lab](https://immigrationlab.org/). Before graduating, I have also been a researcher at [Fondazione Giangiacomo Feltrinelli](https://fondazionefeltrinelli.it/) and an intern at [United Nations Economic Commission for Europe (UNECE)](https://unece.org/). My research has been generously funded by the [United Nations World Institute for Development Economics Research (UNU-WIDER)](https://www.wider.unu.edu/project/institutional-legacies-violent-conflict), [Leiden University](https://www.universiteitleiden.nl/), and [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/).  <!--- I have collaborated on [social](https://simonecremaschi.com/projects/prendereparola/) and [research dissemination](https://simonecremaschi.com/dissemination/) projects with civil society organizations such as [Fondazione Roberto Franceschi](https://www.fondfranceschi.it/), [Associazione Naga](https://naga.it/), and  For more details, see my [curriculum vitae](https://simonecremaschi.com/assets/pdf/cv_web.pdf). --->
 
-**contacts.** To get in touch, please email me at [simone.cremaschi@ox.ac.uk](mailto:simone.cremaschi@ox.ac.uk).
+**contacts.** To get in touch, please email me at [simone.cremaschi@politics.ox.ac.uk](mailto:simone.cremaschi@politics.ox.ac.uk).
 
 
 <!--- **research.** My research investigates the micro-foundations of political conflict over immigration and its interactions with macro societal change and group identities. I address the following key questions:
