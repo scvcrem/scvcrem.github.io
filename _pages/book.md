@@ -3,13 +3,14 @@ layout: page
 permalink: /book/
 title: book project
 nav: true
+nav_title: book
 nav_order: 2
 ---
 
-## Inside Migrant Exploitation 
-### Farm Work and Cooperation in Italy's Informal Camps
+## How Marginalized Migrants Organize
+### Labor Exploitation and Life in Italy's Informal Camps
 
-*Inside Migrant Exploitation* uncovers how migrant workers in Italy build underground institutions that enable their collective survival in informal camps—while channeling their labor into one of Europe’s most exploitative supply chains. Grounded in unique ethnographic access and original interview and survey data, the book develops a new theory of mass migrant exploitation in advanced democracies, showing how it can emerge not through violence or coercion, but through mutually beneficial—yet structurally unfair—exchanges at society’s margins.
+*How Marginalized Migrants Organize* uncovers how migrant workers in Italy build underground institutions that enable their collective survival in informal camps—while channeling their labor into one of Europe’s most exploitative supply chains. Grounded in unique ethnographic access and original interview and survey data, the book develops a new theory of mass migrant exploitation in advanced democracies, showing how it can emerge not through violence or coercion, but through mutually beneficial—yet structurally unfair—exchanges at society’s margins.
 
 
 <div class="row">
@@ -35,7 +36,7 @@ The book argues that:
 
 While grounded in Italy's farmlands, the book places this case in broader context. Similar patterns of labor informality and migrant self-organization are emerging across high-income democracies—from Spain to the U.S.—as states turn a blind eye to labor exploitation to remain competitive in global markets.
 
-*Inside Migrant Exploitation* speaks to ongoing debates in political science, sociology, and migration studies about labor, informality, governance, and exclusion. It offers:
+*How Marginalized Migrants Organize* speaks to ongoing debates in political science, sociology, and migration studies about labor, informality, governance, and exclusion. It offers:
 
 - A new theoretical framework for studying mass labor exploitation
 
