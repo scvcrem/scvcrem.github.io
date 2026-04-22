@@ -47,7 +47,13 @@
   <!-- Entry bib key (I add 2 to each col-sm to get rid of the white space on the right-->
   <div id="{{entry.key}}" class="{% if site.enable_publication_thumbnails %}col-sm-10{% else %}col-sm-12{% endif %}">
     <!-- Title -->
-    <div class="title">{{ entry.title }}</div>
+    <div class="title">
+      {% if page.url == '/' %}
+        <a href="{{ '/publications/' | relative_url }}#{{ entry.key }}">{{ entry.title }}</a>
+      {% else %}
+        {{ entry.title }}
+      {% endif %}
+    </div>
     <!-- Author -->
     <div class="author">
       {% assign author_array_size = entry.author_array | size %}
@@ -174,21 +180,15 @@
       {% include hook/bib.liquid %}
     {% endif %}
     {% assign entrytype_text = entrytype | strip_html | strip %}
-    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% endcapture %}
+    {% assign note_text = entry.note | strip %}
+    {% capture periodical %}{{ entrytype }}{% if entrytype_text != "" and entryyear != "" %}, {% endif %}{{ entrymonth }}{{ entryyear }}{% if note_text != "" %} ({{ note_text }}){% endif %}{% endcapture %}
     <div class="periodical">
       {{ periodical | strip }}
     </div>
-    <div class="periodical">
-      {{ entry.note | strip }}
-    </div>
 
     <!-- Links/Buttons -->
+    {% unless page.url == '/' %}
     <div class="links">
-      {% if entry.award %}
-        <a class="award btn btn-sm z-depth-0" role="button">
-          {%- if entry.award_name %}{{ entry.award_name }}{% else %}Awareded{% endif -%}
-        </a>
-      {% endif %}
       {% if entry.abstract %}
         <a class="abstract btn btn-sm z-depth-0" role="button">Abstract</a>
       {% endif %}
@@ -216,13 +216,13 @@
         {% if entry.article contains '://' %}
           <a href="{{ entry.article }}" class="btn btn-sm z-depth-0" role="button">Article</a>
         {% endif %}
-        {% if entry.preprint %}
+      {% endif %}
+      {% if entry.preprint %}
         {% if entry.preprint contains '://' %}
           <a href="{{ entry.preprint }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
         {% else %}
           <a href="{{ entry.preprint | prepend: '/assets/pdf/' | relative_url }}" class="btn btn-sm z-depth-0" role="button">Preprint</a>
         {% endif %}
-      {% endif %}
       {% endif %}
       {% if entry.dataverse %}
         {% if entry.dataverse contains '://' %}
@@ -270,6 +270,16 @@
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
     </div>
+    {% if entry.award or entry.coverage %}
+      <div class="links meta-links">
+        {% if entry.award %}
+          <a class="award btn btn-sm z-depth-0" role="button">Awards</a>
+        {% endif %}
+        {% if entry.coverage %}
+          <a class="coverage btn btn-sm z-depth-0" role="button">Coverage &amp; Commentary</a>
+        {% endif %}
+      </div>
+    {% endif %}
     {% if site.enable_publication_badges %}
       {% assign entry_has_altmetric_badge = false %}
       {% if entry.altmetric and entry.altmetric != 'false' %}
@@ -355,6 +365,41 @@
       </div>
     {% endif %}
 
+    {% if entry.coverage %}
+      <!-- Hidden coverage block -->
+      <div class="coverage hidden">
+        <ul>
+          {% assign coverage_records = entry.coverage | split: ';;' %}
+          {% assign coverage_sorted = coverage_records | sort | reverse %}
+          {% for rec in coverage_sorted %}
+            {% assign parts = rec | split: '|' %}
+            {% assign cov_date = parts[0] | strip %}
+            {% assign cov_outlet = parts[1] | strip %}
+            {% assign cov_url = parts[2] | strip %}
+            {% assign cov_title = parts[3] | default: '' | strip %}
+            {% assign cov_date_len = cov_date | size %}
+            {% if cov_date_len == 10 %}
+              {% assign cov_date_display = cov_date | date: '%b %Y' %}
+            {% elsif cov_date_len == 7 %}
+              {% assign cov_date_iso = cov_date | append: '-01' %}
+              {% assign cov_date_display = cov_date_iso | date: '%b %Y' %}
+            {% else %}
+              {% assign cov_date_display = cov_date %}
+            {% endif %}
+            <li>
+              {% if cov_title != '' %}
+                &ldquo;<a href="{{ cov_url }}">{{ cov_title }}</a>&rdquo;
+                <span class="text-muted">— {{ cov_outlet }}, {{ cov_date_display }}</span>
+              {% else %}
+                <a href="{{ cov_url }}">{{ cov_outlet }}</a>
+                <span class="text-muted">— {{ cov_date_display }}</span>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </div>
+    {% endif %}
+
     {% if entry.bibtex_show %}
       <!-- Hidden bibtex block -->
       <div class="bibtex hidden">
@@ -370,5 +415,6 @@
         <div style="text-align: center;">{% include video.liquid path=entry.video class="img-fluid rounded z-depth-1" controls=true %}</div>
       </div>
     {% endif %}
+    {% endunless %}
   </div>
 </div>

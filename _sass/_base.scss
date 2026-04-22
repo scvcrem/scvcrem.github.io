@@ -762,6 +762,21 @@ footer.sticky-bottom {
         }
       }
 
+      .links.meta-links {
+        margin-top: 0.35rem;
+        a.btn {
+          background-color: var(--meta-links-bg-color);
+          color: var(--meta-links-text-color);
+          border-color: var(--meta-links-bg-color);
+
+          &:hover {
+            background-color: var(--global-theme-color);
+            color: var(--meta-links-text-color);
+            border-color: var(--global-theme-color);
+          }
+        }
+      }
+
       .badges {
         padding-bottom: 0.5rem;
         span {
@@ -822,6 +837,21 @@ footer.sticky-bottom {
     }
     div.award.hidden.open {
       border-color: var(--global-highlight-color);
+    }
+    div.coverage.hidden {
+      border: dashed 1px var(--global-bg-color);
+      text-align: left;
+      ul {
+        margin: 10px 10px 10px 30px;
+        padding: 0;
+        li {
+          line-height: 1.4em;
+          margin-bottom: 2px;
+        }
+      }
+    }
+    div.coverage.hidden.open {
+      border-color: var(--global-text-color);
     }
   }
 }
