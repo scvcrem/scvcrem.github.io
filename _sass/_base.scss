@@ -685,6 +685,10 @@ footer.sticky-bottom {
     li {
       margin-bottom: 1rem;
 
+      div[id] {
+        scroll-margin-top: 70px;
+      }
+
       .preview {
       }
 
@@ -762,18 +766,15 @@ footer.sticky-bottom {
         }
       }
 
-      .links.meta-links {
-        margin-top: 0.35rem;
-        a.btn {
-          background-color: var(--meta-links-bg-color);
-          color: var(--meta-links-text-color);
-          border-color: var(--meta-links-bg-color);
+      .links a.btn.meta-link {
+        background-color: var(--meta-links-bg-color);
+        color: var(--meta-links-text-color);
+        border-color: var(--meta-links-bg-color);
 
-          &:hover {
-            background-color: var(--global-theme-color);
-            color: var(--meta-links-text-color);
-            border-color: var(--global-theme-color);
-          }
+        &:hover {
+          background-color: var(--global-theme-color);
+          color: var(--meta-links-text-color);
+          border-color: var(--global-theme-color);
         }
       }
 
@@ -836,7 +837,7 @@ footer.sticky-bottom {
       border: dashed 1px var(--global-bg-color);
     }
     div.award.hidden.open {
-      border-color: var(--global-highlight-color);
+      border-color: var(--global-theme-color);
     }
     div.coverage.hidden {
       border: dashed 1px var(--global-bg-color);
