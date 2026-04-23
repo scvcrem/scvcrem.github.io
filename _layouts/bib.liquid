@@ -269,11 +269,11 @@
       {% if entry.website %}
         <a href="{{ entry.website }}" class="btn btn-sm z-depth-0" role="button">Website</a>
       {% endif %}
-      {% if entry.award %}
-        <a class="award meta-link btn btn-sm z-depth-0" role="button">Awards</a>
-      {% endif %}
       {% if entry.coverage %}
-        <a class="coverage meta-link btn btn-sm z-depth-0" role="button">Mentions</a>
+        <a class="coverage btn btn-sm z-depth-0" role="button">Mentions</a>
+      {% endif %}
+      {% if entry.award %}
+        <a class="award btn btn-sm z-depth-0" role="button">Awards</a>
       {% endif %}
     </div>
     {% if site.enable_publication_badges %}

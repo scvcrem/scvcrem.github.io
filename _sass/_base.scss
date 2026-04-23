@@ -762,19 +762,14 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          border-color: var(--global-highlight-color);
-        }
-      }
-
-      .links a.btn.meta-link {
-        background-color: var(--meta-links-bg-color);
-        color: var(--global-text-color);
-        border-color: var(--global-text-color);
-
-        &:hover {
-          background-color: var(--global-theme-color);
-          color: var(--meta-links-text-color);
+          color: var(--global-theme-color);
           border-color: var(--global-theme-color);
+
+          &:hover {
+            color: var(--global-hover-text-color);
+            background-color: var(--global-theme-color);
+            border-color: var(--global-theme-color);
+          }
         }
       }
 
