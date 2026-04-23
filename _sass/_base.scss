@@ -768,8 +768,8 @@ footer.sticky-bottom {
 
       .links a.btn.meta-link {
         background-color: var(--meta-links-bg-color);
-        color: var(--meta-links-text-color);
-        border-color: var(--meta-links-bg-color);
+        color: var(--global-text-color);
+        border-color: var(--global-text-color);
 
         &:hover {
           background-color: var(--global-theme-color);
