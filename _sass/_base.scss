@@ -762,13 +762,20 @@ footer.sticky-bottom {
           }
         }
         a.award.btn {
-          color: var(--global-theme-color);
+          color: var(--global-hover-text-color);
+          background-color: var(--global-theme-color);
           border-color: var(--global-theme-color);
 
           &:hover {
-            color: var(--global-hover-text-color);
-            background-color: var(--global-theme-color);
-            border-color: var(--global-theme-color);
+            color: $white-color;
+            background-color: $black-color;
+            border-color: $black-color;
+          }
+
+          html[data-theme="dark"] &:hover {
+            color: $black-color;
+            background-color: $white-color;
+            border-color: $white-color;
           }
         }
       }
