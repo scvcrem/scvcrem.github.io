@@ -384,10 +384,18 @@
             {% endif %}
             <li>
               {% if cov_title != '' %}
-                &ldquo;<a href="{{ cov_url }}">{{ cov_title }}</a>&rdquo;
+                {% if cov_url != '' %}
+                  &ldquo;<a href="{{ cov_url }}">{{ cov_title }}</a>&rdquo;
+                {% else %}
+                  &ldquo;{{ cov_title }}&rdquo;
+                {% endif %}
                 <span class="text-muted">— {{ cov_outlet }}, {{ cov_date_display }}</span>
               {% else %}
-                <a href="{{ cov_url }}">{{ cov_outlet }}</a>
+                {% if cov_url != '' %}
+                  <a href="{{ cov_url }}">{{ cov_outlet }}</a>
+                {% else %}
+                  {{ cov_outlet }}
+                {% endif %}
                 <span class="text-muted">— {{ cov_date_display }}</span>
               {% endif %}
             </li>
