@@ -18,7 +18,7 @@ social: false # includes social icons at the bottom of the page
 
 I am a Departmental Lecturer in Comparative European Politics at University of Oxford's [Department of Politics and International Relations](https://www.politics.ox.ac.uk/) and an associate member of [Nuffield College](https://www.nuffield.ox.ac.uk/). 
 
-**research.** I combine statistics with ethnographic fieldwork to study how policy shapes migrant integration and far-right support in Western Europe, with a focus on public service delivery, labor exploitation, and public memory.
+**research.** I study the politics of left-behind places across Western Europe, combining statistical analysis and ethnographic fieldwork to understand political discontent, migrant labor exploitation, and how local histories and community narratives shape political behaviour.
 
 **impact.** My research appears in leading journals and has been featured in outlets such as the *Financial Times*, *The Guardian*, and *The Economist*. It has been recognized with the [AJPS Best Article Honorable Mention](https://www.mpsanet.org/professional-resources/awards/2026-award-recipients/) (MPSA, 2026), the [NEPS Medal for the best publication in peace science](https://www.europeanpeacescientists.org/) (2025), and the [IMISCOE Maria Ioannis Baganha Award](https://www.imiscoe.org/news-and-blog/news/network-news/1345-maria-baganha-award-winner-2021-simone-cremaschi) (2021). <!--- All my [publications](https://simonecremaschi.com/publications/) are available on this site.--->
 
