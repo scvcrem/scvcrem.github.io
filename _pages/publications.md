@@ -11,8 +11,8 @@ nav_order: 1
  <h2 class="pubyear">peer reviewed articles</h2>
 {% bibliography -f papers --query @*[category=peer_reviewed]* %}
 
-<h2 class="pubyear">selected work in progress</h2>
-{% bibliography -f papers --query @*[category=inprogress]* %}
+<!--- <h2 class="pubyear">selected work in progress</h2>
+{% bibliography -f papers --query @*[category=inprogress]* %} --->
 
 <h2 class="pubyear">other publications</h2>
 {% bibliography -f papers --query @*[category=other]* %}
